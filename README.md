@@ -1,12 +1,12 @@
 # GameBoy Emulator
 
-A GameBoy emulator built from scratch.
+A GameBoy emulator built from scratch in Rust.
 
 ## Status
 
 **Phase:** Planning / Research
 
-This project is in its early stages. See the [devlog](./devlog.md) for progress notes and decisions.
+This project is in its early stages. See the [devlog](./devlog/) for progress notes and decisions.
 
 ## Resources
 
@@ -15,7 +15,6 @@ This project is in its early stages. See the [devlog](./devlog.md) for progress 
 [PanDocs](https://gbdev.io/pandocs/)
 [GB Complete technical reference (PDF)](https://gekkio.fi/files/gb-docs/gbctr.pdf)
 [RGBDS assembly reference](https://rgbds.gbdev.io/docs/v0.9.0/gbz80.7)
-
 
 ## Architecture
 

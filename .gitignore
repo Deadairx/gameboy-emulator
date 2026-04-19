@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# Rust build artifacts
+target/
+Cargo.lock
+
+# Cache directories
+.fastembed_cache/
