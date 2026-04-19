@@ -7,3 +7,6 @@ Cargo.lock
 
 # Cache directories
 .fastembed_cache/
+
+# ROMs — don't commit copyrighted files
+roms/
